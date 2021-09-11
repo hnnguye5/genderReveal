@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/genderReveal/static/css/main.0dddb532.chunk.css",
+    "main.js": "/genderReveal/static/js/main.adf086fa.chunk.js",
+    "main.js.map": "/genderReveal/static/js/main.adf086fa.chunk.js.map",
+    "runtime-main.js": "/genderReveal/static/js/runtime-main.71911c3f.js",
+    "runtime-main.js.map": "/genderReveal/static/js/runtime-main.71911c3f.js.map",
+    "static/js/2.e88d576c.chunk.js": "/genderReveal/static/js/2.e88d576c.chunk.js",
+    "static/js/2.e88d576c.chunk.js.map": "/genderReveal/static/js/2.e88d576c.chunk.js.map",
+    "index.html": "/genderReveal/index.html",
+    "static/css/main.0dddb532.chunk.css.map": "/genderReveal/static/css/main.0dddb532.chunk.css.map",
+    "static/js/2.e88d576c.chunk.js.LICENSE.txt": "/genderReveal/static/js/2.e88d576c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71911c3f.js",
+    "static/js/2.e88d576c.chunk.js",
+    "static/css/main.0dddb532.chunk.css",
+    "static/js/main.adf086fa.chunk.js"
+  ]
+}
